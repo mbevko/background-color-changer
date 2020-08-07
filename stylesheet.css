@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+  }
+  
+  .background {
+    height: 100vh;
+    width: 100vw;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .green {
+    height: 100vh;
+    width: 100vw;
+    background: #5CC47F;
+  }
+  
+  .blue {
+    height: 100vh;
+    width: 100vw;
+    background: #5CAAC4;
+  }
+  
+  .purple {
+    height: 100vh;
+    width: 100vw;
+    background: #C25CC4;
+  }
+  
+  .pink {
+    height: 100vh;
+    width: 100vw;
+    background: #C45C77;
+  }
+  
+  .green_palette {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: #5CC47F;
+    margin: 10px;
+    border: solid black 1px;
+    cursor: pointer;
+  }
+  
+  .blue_palette {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: #5CAAC4;
+    margin: 10px;
+    border: solid black 1px;
+    cursor: pointer;
+  }
+  
+  .purple_palette {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: #C25CC4;
+    margin: 10px;
+    border: solid black 1px;
+    cursor: pointer;
+  }
+  
+  .pink_palette {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: #C45C77;
+    margin: 10px;
+    border: solid black 1px;
+    cursor: pointer;
+  }
+  
+  .white_palette {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: white;
+    margin: 10px;
+    cursor: pointer;
+    border: solid black 1px;
+  }
+  
